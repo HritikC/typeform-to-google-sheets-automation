@@ -10,5 +10,5 @@ This Make.com scenario automates the flow of Typeform responses into a structure
 
 ## Files
 
-- `automation.json`: The exported Make.com scenario
-- `docs/`: Setup instructions, workflow overview, and use cases
+- `Integration Typeform, Google Sheets.blueprint.json`: The exported Make.com scenario  
+- `overview.md`, `setup.md`, `use-cases.md`: Documentation files
